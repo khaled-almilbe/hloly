@@ -44,11 +44,11 @@
 						</div>\
 						<div id="swipebox-bottom-bar">\
 							<div id="swipebox-arrows">\
-								<i class="fa fa-arrow-left" aria-hidden="true"></i>\
-								<i class="fa fa-arrow-right" aria-hidden="true"></i>\
+								<a id="swipebox-prev"><i class="icon ion-arrow-left-c"></i></a>\
+								<a id="swipebox-next"><i class="icon ion-arrow-right-c"></i></a>\
 							</div>\
 						</div>\
-						<img src="http://www.myiconfinder.com/uploads/iconsets/64-64-486a9b90c52d4de7be5c625acc8836a9.png">\
+						<a id="swipebox-close"><i class="fa fa-times" aria-hidden="true"></i></a>\
 					</div>\
 			</div>';
 
