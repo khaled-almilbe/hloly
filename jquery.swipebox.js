@@ -48,7 +48,7 @@
 								<a id="swipebox-next"><i class="icon ion-arrow-right-c"></i></a>\
 							</div>\
 						</div>\
-						<a id="swipebox-close"><i class="icon ion-close-round"></i></a>\
+						<img src="http://www.myiconfinder.com/uploads/iconsets/64-64-486a9b90c52d4de7be5c625acc8836a9.png">\
 					</div>\
 			</div>';
 
